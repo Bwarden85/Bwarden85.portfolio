@@ -9,8 +9,7 @@
 
 }
 
-
-.aboutMe{
+.aboutMe {
     height: 450px;
 }
 
@@ -32,6 +31,14 @@ a:visited {
     color: black;
 }
 
-.bgColor2{
+.bgColor2 {
     background-color: #f8f9fb;
+}
+
+#textP {
+    font-size: 20px;
+}
+
+u{
+    text-decoration-color: #d1c051;
 }
